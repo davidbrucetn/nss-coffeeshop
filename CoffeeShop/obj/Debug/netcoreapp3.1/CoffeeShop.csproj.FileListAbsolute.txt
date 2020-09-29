@@ -1,0 +1,10 @@
+C:\Users\sever\workspace\csharp\practice\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sever\workspace\csharp\practice\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sever\workspace\csharp\practice\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sever\workspace\csharp\practice\CoffeeShop\CoffeeShop\bin\Debug\netcoreapp3.1\CoffeeShop.exe
+C:\Users\sever\workspace\csharp\practice\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.csprojAssemblyReference.cache
+C:\Users\sever\workspace\csharp\practice\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.AssemblyInfoInputs.cache
+C:\Users\sever\workspace\csharp\practice\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.AssemblyInfo.cs
+C:\Users\sever\workspace\csharp\practice\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp3.1\CoffeeShop.RazorTargetAssemblyInfo.cache
+C:\Users\sever\workspace\csharp\practice\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp3.1\staticwebassets\CoffeeShop.StaticWebAssets.Manifest.cache
+C:\Users\sever\workspace\csharp\practice\CoffeeShop\CoffeeShop\obj\Debug\netcoreapp3.1\staticwebassets\CoffeeShop.StaticWebAssets.xml
