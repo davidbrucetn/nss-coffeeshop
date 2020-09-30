@@ -1,0 +1,45 @@
+html {
+  margin: 0;
+  height: 100vh;
+}
+
+body {
+  color: antiquewhite;
+  background-color: darkred;
+}
+
+.div__body__container {
+  display: flex;
+  flex-flow: column nowrap;
+  color: #654321;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.div__beans {
+  flex: 3;
+  background-color: tan;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  padding: 1em 1em;
+  margin: 1em 0;
+}
+
+.div__coffee {
+  flex: 5;
+  background-color: tan;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  padding: 1em 1em;
+  margin: 1em 0;
+}
+
+.div__section__details {
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  padding: 1em 1em;
+}
+
+button {
+  border-radius: 3em;
+}
+
+select {
+  border-radius: 3em;
+}
