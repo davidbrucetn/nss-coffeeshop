@@ -1,10 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
+    <link rel="stylesheet" href="css/style.css" />
     <title>Coffee Shop</title>
-</head>
-<body>
-   <button id="run-button">Run It!</button>
-   <script src="main.js"></script>
-</body>
+  </head>
+  <body>
+    <header><h1>Coffee Shop</h1></header>
+    <div class="div__body__container">
+      <div class="div__beans">
+        <div class="div__buttons">
+          <h3>Bean Varieties</h3>
+          <button id="allbeans-button">Give me all bean varieties!</button>
+          <label for="beans__dropdown">Bean List</label>
+          <select id="beans__dropdown" name="beans__dropdown"></select>
+          <button id="addBean-button">Add a Bean Variety</button>
+          <br />
+        </div>
+        <div id="div__beans__display" class="div__beans__display"></div>
+      </div>
+
+      <div class="div__coffee">
+        <div class="div__buttons">
+          <h3>Coffees</h3>
+          <button id="allcoffees-button">Give me all coffees!</button>
+          <label for="coffee__dropdown">Coffee List</label>
+          <select id="coffee__dropdown" name="coffee__dropdown"></select>
+          <button id="addCoffee-button">Add a Coffee</button>
+        </div>
+        <div id="div__coffee__display" class="div__coffee__display"></div>
+      </div>
+    </div>
+    <script src="Misc/helper.js"></script>
+    <script src="coffees/CoffeeProvider.js"></script>
+    <script src="coffees/CoffeeConverter.js"></script>
+    <script src="coffees/CoffeeList.js"></script>
+    <script src="beans/BeanProvider.js"></script>
+    <script src="beans/BeanConverter.js"></script>
+    <script src="beans/BeanList.js"></script>
+    <script src="beans/BeanForm.js"></script>
+    <script src="main.js"></script>
+  </body>
 </html>
